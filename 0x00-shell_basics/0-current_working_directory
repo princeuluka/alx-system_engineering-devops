@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l README.md 
+pwd 0x00-shell_basics
