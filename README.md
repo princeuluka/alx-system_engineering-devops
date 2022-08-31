@@ -1,2 +1,1 @@
-wc -l 12-file_type 
-head -n 1 12-file_type
+I'm now a ALX Student, this is my first repository as a full-stack engineer
